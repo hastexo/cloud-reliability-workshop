@@ -1,3 +1,13 @@
-# Intro title
+### High Availability
+### & Disaster Recovery
 
-Note: Add introductory slides here.
+in OpenStack
+
+****
+
+International Industry-Academia Workshop on Cloud Reliability and
+Resilience
+
+Florian Haas
+
+[xahteiwi](//twitter.com/xahteiwi) | [hastexo](//www.hastexo.com/who/florian)
