@@ -6,7 +6,7 @@ in OpenStack
 Distributed Cloud Support
 
 
-![OpenStack Multi-region architecture](//docs.openstack.org/arch-design/_images/Multi-Site_shared_keystone_horizon_swift1.png)
+![OpenStack Multi-region architecture](http://docs.openstack.org/arch-design/_images/Multi-Site_shared_keystone_horizon_swift1.png)
 
 [OpenStack Documentation, CC-BY 3.0](http://docs.openstack.org/arch-design/multi-site-architecture.html) <!-- .element: class="caption" -->
 
