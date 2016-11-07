@@ -33,6 +33,11 @@ Note: Has been in vendors' OpenStack products since at least 2013,
 using Corosync/Pacemaker stack.
 
 
+![OpenStack API HA reference architecture](http://redhatstackblog.files.wordpress.com/2014/04/pacemaker-clustered-load-balancer.png)
+
+[Red Hat Stack blog](http://redhatstackblog.redhat.com/2014/04/16/the-road-to-high-availability-for-openstack/) <!-- .element: class="caption" -->
+
+
 OpenStack
 # Storage
 ### High Availability
@@ -60,7 +65,7 @@ failure scenarios.
 
 
 <!-- .slide: data-background-color="black" -->
-<iframe data-autoplay src="https://www.youtube.com/embed/Dvh8q5m9Ahk?start=485&end=555&controls=0&showinfo=0&autohide=1&modestbranding=1&rel=0"></iframe>
+<iframe data-autoplay src="https://www.youtube.com/embed/Dvh8q5m9Ahk?start=485&end=538&controls=0&showinfo=0&autohide=1&modestbranding=1&rel=0"></iframe>
 
 Note: What you are seeing here is a combination of Congress and
 Vitrage (from OpenStack) with Doctor (from OPNFV). What is being
