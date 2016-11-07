@@ -33,6 +33,11 @@ Note: Has been in vendors' OpenStack products since at least 2013,
 using Corosync/Pacemaker stack.
 
 
+![OpenStack API HA reference architecture](http://redhatstackblog.files.wordpress.com/2014/04/pacemaker-clustered-load-balancer.png)
+
+[Red Hat Stack blog](http://redhatstackblog.redhat.com/2014/04/16/the-road-to-high-availability-for-openstack/) <!-- .element: class="caption" -->
+
+
 OpenStack
 # Storage
 ### High Availability
