@@ -60,7 +60,7 @@ failure scenarios.
 
 
 <!-- .slide: data-background-color="black" -->
-<iframe data-autoplay src="https://www.youtube.com/embed/Dvh8q5m9Ahk?start=485&end=555&controls=0&showinfo=0&autohide=1&modestbranding=1&rel=0"></iframe>
+<iframe data-autoplay src="https://www.youtube.com/embed/Dvh8q5m9Ahk?start=485&end=538&controls=0&showinfo=0&autohide=1&modestbranding=1&rel=0"></iframe>
 
 Note: What you are seeing here is a combination of Congress and
 Vitrage (from OpenStack) with Doctor (from OPNFV). What is being
