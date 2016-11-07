@@ -16,13 +16,10 @@ industries that traditionally have been very FOSS unfriendly (such as
 telco).
 
 
-<!-- .slide: 
-data-background-image="http://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg"
-data-background-size="contain" -->
+<!-- .slide: data-background-image="http://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" data-background-size="contain" -->
 
 
-<!-- .slide: 
-data-background-image="http://upload.wikimedia.org/wikipedia/en/1/16/Rackspace_logo.svg" data-background-size="contain" -->
+<!-- .slide: data-background-image="http://upload.wikimedia.org/wikipedia/en/1/16/Rackspace_logo.svg" data-background-size="contain" -->
 
 
 Now in its
@@ -30,8 +27,7 @@ Now in its
 release cycle
 
 
-<!-- .slide: 
-data-background-image="images/openstack-newton-logo.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="images/openstack-newton-logo.png" data-background-size="contain" -->
 
 
 More than
